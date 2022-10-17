@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Officer-Friendly, the world's most mediocre programmer
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently studying MSc Artificial Intelligence Student at Heriot-Watt University
+- 🌱 I’m a recent graduate of MSc Artificial Intelligence Student from Heriot-Watt University
 - 💞️ I’m looking to collaborate on A.I related topics
 - 📫 You can reach me on LinkedIn
