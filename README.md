@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Officer-Friendly, the world's most mediocre programmer
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m a student at The Edinburgh Centre for Robotics, Heriot-Watt University/University of Edinburgh
+- 🌱 I’m a student at The Edinburgh Centre for Robotics (Heriot-Watt University | University of Edinburgh)
 - 💞️ I’m looking to collaborate on A.I related topics
 - 📫 You can reach me on LinkedIn
